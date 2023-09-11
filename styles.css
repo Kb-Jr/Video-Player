@@ -1,0 +1,35 @@
+:root{
+    --primary-color:dodgerblue;
+    --font-color:whitesmoke;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.video-container{
+    /* height: 65%; */
+    width: 70%;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 0;
+}
+
+.video{
+    width: 100%;
+    height: auto;
+}
+
+.controls{
+
+}
