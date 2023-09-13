@@ -16,8 +16,8 @@
     font-family: Helvetica, sans-serif;
   }
   
-  .fas {
-    color: var(--font-color);
+  .fa-solid {
+    color: white;
     font-size: 35px;
   }
   
