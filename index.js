@@ -160,6 +160,7 @@ const openFullscreen = (elem) => {
 
 let fullscreen = false;
 
+//Toggle Fullscreen
 const toggleFullscreen = () => {
     if (!fullscreen){
         openFullscreen(player);
